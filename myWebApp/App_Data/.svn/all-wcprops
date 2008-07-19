@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/96/trunk/myWebApp/App_Data
+END
+mydb.s3db
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/myWebApp/App_Data/mydb.s3db
+END

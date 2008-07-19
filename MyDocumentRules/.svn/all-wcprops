@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/102/trunk/MyDocumentRules
+END
+DALContainerFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/trunk/MyDocumentRules/DALContainerFactory.cs
+END
+MediasManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/trunk/MyDocumentRules/MediasManager.cs
+END
+LivresManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/82/trunk/MyDocumentRules/LivresManager.cs
+END
+SearchManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/55/trunk/MyDocumentRules/SearchManager.cs
+END
+AuteurManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/102/trunk/MyDocumentRules/AuteurManager.cs
+END
+ManagerControler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/83/trunk/MyDocumentRules/ManagerControler.cs
+END
+DALContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/33/trunk/MyDocumentRules/DALContainer.cs
+END
+CdsManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/82/trunk/MyDocumentRules/CdsManager.cs
+END
+MyDocumentRules.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/83/trunk/MyDocumentRules/MyDocumentRules.csproj
+END

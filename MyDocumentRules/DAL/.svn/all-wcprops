@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/97/trunk/MyDocumentRules/DAL
+END
+media.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/97/trunk/MyDocumentRules/DAL/media.hbm.xml
+END
+livre.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/82/trunk/MyDocumentRules/DAL/livre.hbm.xml
+END
+auteur.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/78/trunk/MyDocumentRules/DAL/auteur.hbm.xml
+END

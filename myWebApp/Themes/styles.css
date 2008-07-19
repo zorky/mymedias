@@ -1,0 +1,97 @@
+﻿form {
+ width: 370px;
+ font-size: 1.1em;
+ color: #333;
+}
+
+fieldset {
+margin-bottom:10px;
+}
+
+legend {
+font-weight:bold;
+padding:0pt 2px;
+}
+
+label {
+display:inline-block;
+line-height:1.8;
+vertical-align:top;
+}
+
+fieldset ol {
+margin:0pt;
+padding:0pt;
+}
+
+fieldset li {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin:0pt;
+padding:5px;
+}
+ 
+em {
+color:#FF0000;
+font-style:normal;
+font-weight:bold;
+}
+
+label {
+width:120px;
+}
+
+legend { 
+padding-left: 0; 
+color: #666;}
+
+label { color: #333; }
+
+fieldset {
+ border: none;
+ border-top: 1px solid #C9DCA6;
+ border-bottom: 1px solid #C9DCA6;
+ /*border: 1px solid #C9DCA6;*/
+ }
+ 
+.plus {
+background:transparent url(images/plus.gif) no-repeat scroll 2px center;
+padding:0pt 0pt 0pt 15px;
+}
+
+.moins {
+background:transparent url(images/moins.gif) no-repeat scroll 2px center;
+padding:0pt 0pt 0pt 15px;
+}
+
+a {
+color:#003367;
+}
+
+/* messages */
+
+.section {
+    line-height:1.4em;
+    width:400px;
+    margin-bottom:1.5em;
+    padding:0.75em 0.5em 0.75em 3em;
+}
+
+.error {
+    background:#FFBBBB url(images/invalid.gif) no-repeat scroll 1em 0.75em;
+    border-bottom:1px solid #FF8C8C;
+    border-top:1px solid #FF8C8C;
+    color:#B50000;
+    font-family:Arial;
+    font-size:12px;
+}
+
+.success {
+    background:#DAFFCD url(images/valid.gif) no-repeat scroll 1em 50%;
+    border-bottom:1px solid #9FDB40;
+    border-top:1px solid #9FDB40;
+    color:green;
+    font-family:Arial;
+    font-size:12px;
+}

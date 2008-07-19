@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/82/trunk/MyConnector/Interfaces/Managers
+END
+IAuteursManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/82/trunk/MyConnector/Interfaces/Managers/IAuteursManager.cs
+END
+ICdsManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/82/trunk/MyConnector/Interfaces/Managers/ICdsManager.cs
+END
+IMediasManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/82/trunk/MyConnector/Interfaces/Managers/IMediasManager.cs
+END
+ILivresManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/82/trunk/MyConnector/Interfaces/Managers/ILivresManager.cs
+END
+ISearchManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/82/trunk/MyConnector/Interfaces/Managers/ISearchManager.cs
+END

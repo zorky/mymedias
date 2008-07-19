@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/54/trunk/Libs
+END
+Iesi.Collections.dll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/38/trunk/Libs/Iesi.Collections.dll
+END
+log4net.dll
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/27/trunk/Libs/log4net.dll
+END
+System.Data.SQLite.DLL
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/32/trunk/Libs/System.Data.SQLite.DLL
+END
+NHibernate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/54/trunk/Libs/NHibernate.dll
+END
+Lucene.Net.dll
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/11/trunk/Libs/Lucene.Net.dll
+END
+Castle.DynamicProxy.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/38/trunk/Libs/Castle.DynamicProxy.dll
+END
+Castle.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/27/trunk/Libs/Castle.Core.dll
+END
+Castle.DynamicProxy2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/Libs/Castle.DynamicProxy2.dll
+END
+Highlighter.Net.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/Libs/Highlighter.Net.dll
+END

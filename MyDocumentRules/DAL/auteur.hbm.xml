@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true" >
+    <class name="MyConnector.Model.Auteur, MyConnector" table="auteurs">
+        <id name="Id" column="id" type="System.Int32" access="property">
+            <generator class="identity"></generator>
+        </id>
+        <property name="Nom" column="aut_nom" not-null="true" type="System.String" access="property"/>
+        <property name="Prenom" column="aut_prenom" not-null="false" type="System.String" access="property"/>        
+    </class>
+</hibernate-mapping>

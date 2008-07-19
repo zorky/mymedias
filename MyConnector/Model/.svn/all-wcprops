@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/98/trunk/MyConnector/Model
+END
+Dvd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/98/trunk/MyConnector/Model/Dvd.cs
+END
+Result.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/MyConnector/Model/Result.cs
+END
+Media.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/84/trunk/MyConnector/Model/Media.cs
+END
+Livre.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/84/trunk/MyConnector/Model/Livre.cs
+END
+Jeu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/98/trunk/MyConnector/Model/Jeu.cs
+END
+Auteur.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/trunk/MyConnector/Model/Auteur.cs
+END
+Cd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/84/trunk/MyConnector/Model/Cd.cs
+END
+Divx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/98/trunk/MyConnector/Model/Divx.cs
+END

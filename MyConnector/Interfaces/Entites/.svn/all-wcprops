@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/98/trunk/MyConnector/Interfaces/Entites
+END
+IJeu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/MyConnector/Interfaces/Entites/IJeu.cs
+END
+IAuteur.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/82/trunk/MyConnector/Interfaces/Entites/IAuteur.cs
+END
+ICd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/98/trunk/MyConnector/Interfaces/Entites/ICd.cs
+END
+IDivx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/98/trunk/MyConnector/Interfaces/Entites/IDivx.cs
+END
+IDvd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/MyConnector/Interfaces/Entites/IDvd.cs
+END
+IResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/82/trunk/MyConnector/Interfaces/Entites/IResult.cs
+END
+IMedia.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/trunk/MyConnector/Interfaces/Entites/IMedia.cs
+END
+ILivre.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/trunk/MyConnector/Interfaces/Entites/ILivre.cs
+END

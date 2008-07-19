@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true" >
+    <class name="MyConnector.Model.Media, MyConnector" table="medias">
+        <id name="Id" column="id" type="System.Int32" access="property">
+            <generator class="identity"></generator>
+        </id>
+        <property name="Titre" column="titre" not-null="true" type="System.String" access="property"/>
+        <property name="SousTitre" column="sstitre" not-null="false" type="System.String" access="property"/>
+        <property name="Langue" column="langue" not-null="true" type="MyConnector.Model.Langue, MyConnector" access="property"/>
+        <property name="DateParution" column="dateparution" not-null="false" type="System.DateTime" access="property"/>
+        <property name="MediaType" column="typemedia_id" not-null="false" type="MyConnector.Model.MediaType, MyConnector" access="property"/>
+        <property name="Resume" column="resume" not-null="false" type="StringClob" access="property"/>
+        <property name="IsSupprime" column="issupprime" not-null="true" type="Boolean" access="property"/>
+        <property name="DateCreation" column="created_at" not-null="true" type="System.DateTime" access="property"/>
+        <many-to-one name="Auteur" class="MyConnector.Model.Auteur, MyConnector" column="auteur_id"
+              not-null="false" cascade="none"/>
+      
+      <joined-subclass name="MyConnector.Model.Livre, MyConnector" table="livres">
+            <key column="Id"/>
+            <property name="Isbn" column="isbn" not-null="false" type="System.String" access="property"/>
+            <property name="NbPages" column="nbpages" not-null="false" type="System.Int32" access="property"/>
+        </joined-subclass>
+      
+        <joined-subclass name="MyConnector.Model.Cd, MyConnector" table="cds">
+            <key column="Id"/>
+            <property name="DureeMn" column="dureemn" not-null="false" type="System.Int32" access="property"/>
+        </joined-subclass>
+
+        <joined-subclass name="MyConnector.Model.Dvd, MyConnector" table="dvds">
+            <key column="Id"/>
+            <property name="Region" column="region" not-null="false" type="System.Int32" access="property"/>
+        </joined-subclass>
+
+        <joined-subclass name="MyConnector.Model.Divx, MyConnector" table="divxs">
+          <key column="Id"/>          
+        </joined-subclass>
+
+        <joined-subclass name="MyConnector.Model.Jeu, MyConnector" table="jeux">
+          <key column="Id"/>
+        </joined-subclass>
+    </class>
+</hibernate-mapping>
